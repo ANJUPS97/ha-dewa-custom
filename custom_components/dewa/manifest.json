@@ -1,0 +1,10 @@
+{
+  "domain": "dewa",
+  "name": "DEWA Consumption",
+  "version": "1.0.0",
+  "documentation": "https://github.com/your-username/your-repo-name",
+  "issue_tracker": "https://github.com/your-username/your-repo-name/issues",
+  "dependencies": [],
+  "codeowners": ["@your-username"],
+  "iot_class": "cloud_polling"
+}
