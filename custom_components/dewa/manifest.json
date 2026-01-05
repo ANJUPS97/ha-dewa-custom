@@ -2,9 +2,8 @@
   "domain": "dewa",
   "name": "DEWA Consumption",
   "version": "1.0.0",
-  "documentation": "https://github.com/your-username/your-repo-name",
-  "issue_tracker": "https://github.com/your-username/your-repo-name/issues",
-  "dependencies": [],
+  "documentation": "https://github.com/your-username/ha-dewa-custom",
+  "issue_tracker": "https://github.com/your-username/ha-dewa-custom/issues",
   "codeowners": ["@your-username"],
   "iot_class": "cloud_polling"
 }
